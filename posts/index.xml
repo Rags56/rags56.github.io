@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rags&#39;s dumpster fire</title>
+    
+    
+    
+    <link>http://rags56.github.io/posts/</link>
+    <description>Recent content in Posts on Rags&#39;s dumpster fire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Sep 2022 21:49:27 +0400</lastBuildDate>
+    
+	<atom:link href="http://rags56.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Rant about new gen Pokemon games V.01</title>
+      <link>http://rags56.github.io/posts/mypost/</link>
+      <pubDate>Fri, 23 Sep 2022 21:49:27 +0400</pubDate>
+      
+      <guid>http://rags56.github.io/posts/mypost/</guid>
+      <description>
+        
+          &lt;img src=&#34;http://rags56.github.io/img/hello.jpg&#34;/&gt;
+          
+        
+        
+        
+          A breakdown of the uncanny valley effect and how it affects new pokemon games
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
